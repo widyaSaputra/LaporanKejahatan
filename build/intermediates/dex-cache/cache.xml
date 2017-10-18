@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_9b4d2e3be4d38a30790db636706ed224eaede647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\9722a8c78897cc8f59547e6ce4e2594f5dd21d6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_7b96a4ed4ff39c53c796c27d00475810bc6ecc44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\system\Android\Android Studio\gradle\m2repository\net\sf\kxml\kxml2\2.3.0\kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\kxml2-2.3.0_89194a9c6c591caebeef4aa0d4f7d407a9401154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\0f08e25273bdd58fda541673d5bcc042979fb8f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_c2c31a94f039eed891c3eb0bdb152bfa7f414aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\ab0c0c551c6725329f299a68b8056bd7f6127731\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_3615e7c62c29e0f12354e5d9d1dbf301ddd14ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\29e5ee15236ad795bb5252ed712d7b816844fd81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_6918f50d503095c79928b9cfde75e29077749e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\875b2ce48813b6ce93a164100665d256d22d6050\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_3e20a126fad7117183ab91ba31dda3abb1fb9683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b4fd1ccabb21f1e6f4aa602016b98e07e4cad37c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_04dcbcb25bca2923b8b748b1d03c971d3155f420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\945eb155af5ab02660334cff60e73879e4f2f4ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_f33b9244823b5fc07fbb74add4ac688ea050ff96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\42054aea8331293d5a5d7cfe44c21e2d84cb7204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f42cd459be08d98d05abb5f5361d057726e8f126">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_0f7e3015107e250201318e44283196f5274d873c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_71575e5ca33d09560446646f6d747639ce5ac510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_4f6cf9c33d0c6293ebc37267c0c614c58f98a74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\dad1678eef6e9b04d29a675a828d0d799144dbc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d783e87b2329ad0b3959fa59947dfe0401b2beb9">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_aa78b05b5ed947d281ae97bb04e7ebfd1eb705f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\jacocoagent_f3c6a53f98f967b9e161160940cca6332d776c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_bf6372001d63b35adcee0ab07fda6caab3c5dd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\a0a91f1fabab6a1c9a8367cca709e8332212edd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_2be8a45e7a72c1764d330683cd2b0466497dd5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_501fe56d86f943306514a980f16f86bc4c1a0c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b47ada92ff2ff3fbddd401eb69328e28433ab9f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_e2e7fd2d5aa7954aba1ded19dc47325ee63bfe52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\ebeafca070e25e2c00cd0b6b4bd4fe8278633396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_1ab989d05709eceee5c5ecfe8b3d637283c2d6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\4b4f7086dfba412d4fe5f6502a6532d8bdfc2c02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_104513a9597368d09d15b90dca77b682605af041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b2f89f97d3dbf12191f678948a563f3a7d27193a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0cc52f82a38613739bfded911ca385b75ff504f">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_d23ad0e2fbb0b77cb8f5917d4ffab7968d267e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\ee830607b0b444478cbe8f2df0ab027f632cdccc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdffea03a90c6b623dc5b5b10fe067cfd3048715">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_d97872eda0b769bbab4739da0996465552f9038f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\0d10b9323e530312df1d9da41266620a3986424f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_41e51f44b924426e13ccdd7bbc12051ffc5c7e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\80ea3771b5bae44df4876702cf9275f05d3faaa7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_f4dabbe29e103e7bc5f1c9589dec734a90861743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\2191bc87667cd87b029a72699edae673784b02da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6295621aab3a37ea2500e9e1a2829175313372c">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_ba19a9fe2f952297136f98cae3ffc96e52115aef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_7a1534a85ae4b1e9d566f871705b252cbb27ec4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\376bb4bd2069a0de69d06c89d74e22c66d29e800\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_7761f5668a1fbe32e75f08c7a0d5596ab359b68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\e754240091b8f232a8e2cc3e2f466d57440544e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_4ec4216ef8ddc862516ebf2f7018e5aac4bfcebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\256660574d5209c762967effc34a3e81e5a9204b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_19e1953a291e1e7c6d4bba7f12ee1e3bda1c94b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\jacocoagent_c4e88a96ffdfe1c6cbe07d971c87ee160b1c40cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b20926124a318c78d9eb65b95275eac5971b596b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_d3d415dec745c38bedca72421b916f1cde37c11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_3be2972781bdc9c506363dc50df700b0a0e110c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\f612f028468be2d9249606615231f3a207cee7a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_709411c9fb24eb553886a8299100d0526687c566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_7f748d6b1bb4531dc57eb13382d125016a690d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\00cfa66bc1a9bce014d3baf00cbd266424704ffb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\classes_5f5d311a9dc4a4a7d76b9e58a1fbef3195cce960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="E:\system\Laporan\LaporanKejahatan4\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_9307c290660bf56b902fc59a8630cbcd4f84cc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\2b5a4b267622dfa6070d15f83c01c5ee76274e39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_298c6dd582d624cec319c6c4f814aced17e9998d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\9fbaf7ccf8d5803c13bea9d6113dba1e0221cffe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="E:\system\New folder\LaporanKejahatan4\app\build\intermediates\pre-dexed\debug\classes_984351691471039867aeb5fe14997ccd7fea298b.jar" />
+    </item>
+
+</items>
