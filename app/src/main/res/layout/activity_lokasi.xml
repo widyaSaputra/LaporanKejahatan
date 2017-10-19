@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.laporan.laporankejahatan.Lokasi"
     tools:showIn="@layout/app_bar_navigasi">
-
+lalaklasdklsjda
     <EditText
         android:id="@+id/etLocationLat"
         android:layout_width="wrap_content"
