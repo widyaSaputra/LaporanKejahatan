@@ -26,10 +26,6 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.action.ViewActions.click;
 import static android.support.test.espresso.action.ViewActions.closeSoftKeyboard;
@@ -42,24 +38,21 @@ import static org.junit.Assert.*;
 /**
  * Created by HP on 18/10/2017.
  */
-public class LokasiTest extends AppCompatActivity {
+public class LokasiTest {
 
     @Rule
     public ActivityTestRule<Lokasi> lokasiActivityTestRule = new ActivityTestRule<Lokasi>(Lokasi.class);
     private Lokasi loka = null;
     private FirebaseDatabase database = FirebaseDatabase.getInstance();
     private DatabaseReference reee = database.getReference("Laporan");
-    LocationManager locationManager;
 
-    long a, b = 0;
+    long  b = 0;
 
     @Before
     public void setUp() throws Exception {
         Intents.init();
-        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         loka = lokasiActivityTestRule.getActivity();
         FirebaseAuth.getInstance().signInWithEmailAndPassword("magrid@gmail.com", "123456");
-
     }
 
     @After
